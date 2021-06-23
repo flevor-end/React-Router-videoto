@@ -20,13 +20,13 @@ class NotFound extends PureComponent {
         <h3 className="SadFace">:(</h3>
         <h2>NO HEMOS ENCONTRADO LO QUE ESTABAS BUSCANDO!</h2>
         <button className="Button" onClick={this.handleForwardClick}>
-          ir a la Siguiente Ruta
+          ir a la Siguiente Ruta👉
         </button>
         <button className="Button" onClick={this.handleBackClick}>
-          Ir a la Ruta Anterior
+          Ir a la Ruta Anterior 👈
         </button>
         <button className="Button" onClick={this.handleRandomClick}>
-          Video random
+          Video random 🔔
         </button>
       </div>
     );

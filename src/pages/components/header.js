@@ -31,7 +31,7 @@ class Header extends Component {
             </li>
             <li>
               <NavLink to="/perfil" activeClassName="is-selected">
-                Perfil
+                The Flavs
               </NavLink>
             </li>
             <li>
